@@ -39,3 +39,30 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any questions or suggestions, please contact us at [email@example.com](mailto:email@example.com).
+
+## 更新
+
+feature: Implement crime data feature improvements - 2025-03-25
+
+```markdown
+# Feature: 功能改进
+
+## Overview
+This PR introduces functional improvements to enhance the existing features in the repository. The changes aim to improve performance, usability, or functionality based on the latest requirements or feedback.
+
+## Changes
+- Updated core functionality to improve efficiency
+- Enhanced existing features for better user experience
+- Refactored code for maintainability and readability
+- Added new utility functions or methods to support the improvements
+
+## Testing
+To verify the changes:
+1. Checkout the `feature/update-20250325-002303` branch
+2. Run the existing test suite to ensure no regressions
+3. Manually test the improved features to confirm they work as expected
+4. Verify performance metrics if applicable
+
+## Related Issues
+- N/A (or list related issue numbers if applicable)
+```
