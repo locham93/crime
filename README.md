@@ -39,3 +39,30 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any questions or suggestions, please contact us at [email@example.com](mailto:email@example.com).
+
+## 更新
+
+feature: Add crime reporting feature improvements - 2025-03-26
+
+```markdown
+# Feature: Update 20250326-101500
+
+## Overview
+This PR introduces functional improvements to enhance the existing features in the repository. The changes aim to improve performance, usability, or functionality based on the latest requirements or feedback.
+
+## Changes
+- Implemented functional improvements to existing features
+- Updated relevant components or modules to support the new functionality
+- Refactored code where necessary to improve maintainability
+- Added or modified documentation to reflect the changes
+
+## Testing
+To verify the changes:
+1. Checkout the `feature/update-20250326-101500` branch
+2. Run the existing test suite to ensure no regressions
+3. Manually test the affected features to confirm the improvements work as expected
+4. Verify any new or updated functionality meets the requirements
+
+## Related Issues
+- N/A (or list any related issue numbers if applicable)
+```
